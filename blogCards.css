@@ -38,7 +38,7 @@
 
   .card h2 {
     margin-bottom: 10px;
-    text-shadow: #FC0 1px 0 10px
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8), 0 0 10px #FC0;
   }
 
   .card p {
@@ -49,7 +49,7 @@
 
     align-self: flex-start;
     color: white;
-    text-shadow: rgb(58, 142, 12) 1px 0 10px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8), 0 0 10px rgb(58, 142, 12);
     text-decoration: none;
     padding: 5px;
     text-align: center;
