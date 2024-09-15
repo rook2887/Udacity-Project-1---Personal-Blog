@@ -5,6 +5,7 @@
     width: 350px;
     min-width: 200px;
     margin-top: 100px;
+    height: fit-content;
   }
 
   .sidebar p + p {
@@ -14,11 +15,12 @@
   .span {
     text-shadow: #FC0 1px 0 10px;
   }
+
   .nav-list {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
-    margin-top: 10px;
+    margin-top: 40px;
     list-style-type: none;
     text-shadow: rgb(58, 142, 12) 1px 0 10px;
   }
@@ -34,7 +36,7 @@
     display: block;
     padding: 5px;
     text-align: center;
-    background-color: rgba(255, 255, 255, 0.1);
+    background: rgba(255, 255, 255, 0.1);
     border-radius: 5px;
     transition: background-color 0.3s ease;
     font: 1rem "Noto Sans JP", sans-serif;
