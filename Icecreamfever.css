@@ -1,5 +1,5 @@
 .blog-post {
-    background-color: rgba(0, 0, 0, 0.7) !important;
+    background-color: rgba(0, 0, 0, 0.7);
     border-radius: 10px;
     padding: 30px;
     max-width: 800px;
@@ -100,8 +100,9 @@ article p:last-child {
 }
 
 .back-link:hover {
-    color: #1DA1F2; /* Or any color you prefer for hover state */
+    color: #1DA1F2;
 }
 
 .back-icon {
     margin-top: 5px;
+}

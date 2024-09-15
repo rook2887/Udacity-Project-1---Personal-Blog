@@ -32,9 +32,9 @@ footer {
     display: flex;
     flex-direction: column;
     align-items: center;
-     width: 100%;
-        padding: 20px;
-      }
+    width: 100%;
+    padding: 20px;
+    }
 
 @media screen and (min-width: 900px)  {
 
@@ -44,10 +44,11 @@ footer {
   }
 
   footer {
-    grid-column: 2; /*positions footer in the second column*/
-    width: calc(65% - 20px); /*width of the footer*/
-    margin-left: calc(35% + 20px); /*aligns footer with the gap*/
-}}
+    grid-column: 2;
+    width: calc(65% - 20px);
+    margin-left: calc(35% + 20px);
+}
+  }
 
 @media screen and (max-width: 900px) {
     .main-content {
