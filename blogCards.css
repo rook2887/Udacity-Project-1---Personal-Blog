@@ -8,7 +8,8 @@
   }
 
   .card {
-    background-color: rgba(0, 0, 0, 0.5);
+    color: #e0e0e0;
+    background-color: rgba(0, 0, 0, 0.7);
     border-radius: 10px;
     padding: 10px;
     display: flex;
@@ -52,14 +53,14 @@
     text-decoration: none;
     padding: 5px;
     text-align: center;
-    background-color: rgba(255, 255, 255, 0.1);
+    background-color: rgba(0,0,0,0.6);
     border-radius: 5px;
     transition: background-color 0.3s ease;
     font: 1rem "Noto Sans JP", sans-serif;
   }
 
   .card .read-more:hover {
-    background-color: rgba(255, 255, 255, 0.2);
+    background-color: rgba(0,0,0,1);
   }
 
   .pagescroll { color:white;
@@ -69,12 +70,14 @@
     color:white;
     font-size: 1.1rem;
     padding: 5px;
-    background-color: rgba(255, 255, 255, 0.1);
+    background-color: rgba(0, 0, 0, 0.6);
     border-radius: 5px;
     transition: background-color 0.3s ease;
     text-shadow: rgb(58, 142, 12) 1px 0 10px;
+    border: none;
+    outline: none;
   }
 
   .prev-btn:hover, .next-btn:hover {
-    background-color: rgba(255, 255, 255, 0.2);
+    background-color: rgba(0, 0, 0, 0.8);
   }
