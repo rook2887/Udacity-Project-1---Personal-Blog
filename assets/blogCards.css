@@ -31,11 +31,11 @@
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
   }
 
-  .card.eins > img {object-position: 0% 80%;}
-  .card.zwei > img {object-position: 0% 75%;}
-  .card.drei > img {object-position: 0% 20%;}
-  .card.vier > img {object-position: 0% 20%;}
-  .card.fünf > img {object-position: 0% 10%;}
+  .card.eins img {object-position: 0% 80%;}
+  .card.zwei img {object-position: 0% 75%;}
+  .card.drei img {object-position: 0% 20%;}
+  .card.vier img {object-position: 0% 20%;}
+  .card.fünf img {object-position: 0% 10%;}
 
   .card h2 {
     margin-bottom: 10px;
