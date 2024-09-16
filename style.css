@@ -43,11 +43,11 @@ footer {
     top: 100px;
   }
 
-  footer {
+  /* footer {
     grid-column: 2;
     width: calc(65% - 20px);
     margin-left: calc(35% + 20px);
-}
+} */
   }
 
 @media screen and (max-width: 900px) {
@@ -151,3 +151,4 @@ footer {
     }
 
   }
+

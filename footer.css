@@ -8,13 +8,13 @@
     background-color: rgba(0,0,0,0.7);
     padding: 20px;
     border-radius: 10px;
-    width: 350px;
-    min-width: 200px;
+    width: 90%;
+    max-width: 500px;
 }
 
 .subscribe-form h3 {
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8), 0 0 10px #FC0;
-    font-size: 1.5rem;
+    font-size: 2rem;
 }
 
 .form-group {
@@ -24,12 +24,12 @@
 }
 
 .form-group label {
-    font-size: 1.2rem;
+    font-size: 1.5rem;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8), 0 0 10px rgb(58, 142, 12);
 }
 
 .form-group input {
-    font-size: 1.2rem;
+    font-size: 1.5rem;
 }
 
 .subscribe-btn {
