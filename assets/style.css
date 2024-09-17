@@ -94,9 +94,16 @@ footer {
 
     .blog-post .author-info {
       flex-direction: row;
-      align-items: flex-start;
+      align-items: center;
       text-align: left;
     }
+
+    .blog-post .author-avatar {
+      text-align: center ;
+      margin-right: 20px;
+    }
+
+
   }
 
 
